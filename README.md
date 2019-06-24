@@ -1,2 +1,3 @@
-# Foreign-Exchange-Currency-App
-Foreign-Exchange-Currency-App by Riyandi Novian
+# Foreign Exchange Currency App
+by Riyandi Novian
+with React JS
